@@ -7,20 +7,20 @@
 
 ---
 
-## 🚀 I'm currently:
+## I'm currently:
 - Writing my thesis on Hierarchical Reinforcement Learning for robotic trajectory optimization  
 - Working as a Teaching Assistant in Statistical Inference & Modeling  
 - Deepening my expertise in Reinforcement Learning and applied ML research  
 
 ---
 
-## 🤝 I'm looking to collaborate on:
+## I'm looking to collaborate on:
 - Open-source ML or RL projects  
 - Academic or applied research in AI & Robotics  
 
 ---
 
-## 🧠 Projects I've worked on:
+## Projects I've worked on:
 - **Sberbank Housing Price Prediction**  
   Ranked 1st in class; achieved ~20% improvement using ensemble models on a Kaggle dataset  
 - **Image Segmentation with U-Net**  
@@ -30,7 +30,7 @@
 
 ---
 
-## 🧰 Tech Stack:
+## Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -42,6 +42,6 @@
 
 ---
 
-## 📫 Contact:
+## Contact:
 [LinkedIn](https://www.linkedin.com/in/lidor-erez/)  
 erezlid98@gmail.com
