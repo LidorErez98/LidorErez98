@@ -8,7 +8,8 @@
 ---
 
 ## I'm currently:
-- Writing my thesis on Hierarchical Reinforcement Learning for robotic trajectory optimization  
+- Working on my thesis on Hierarchical Reinforcement Learning for robotic trajectory optimization
+- Solving Hybrid RL problem (Hybrid Discrete - Continuous Action Space)
 - Working as a Teaching Assistant in Statistical Inference & Modeling  
 - Deepening my expertise in Reinforcement Learning and applied ML research  
 
